@@ -366,6 +366,7 @@ markers:
   - {type: variant, offset: 640, length: 1, content: 隨, krp: 随}
   - {type: punctuation, offset: 648, content: (, id: KR2a0019_ZHSJ_029-bkkpn123}
   - {type: punctuation, offset: 648, content: （, id: KR2a0019_ZHSJ_029-bkkpn124}
+  - {type: voice, offset: 648, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 650, content: ）, id: KR2a0019_ZHSJ_029-bkkpn125}
   - {type: punctuation, offset: 650, content: ), id: KR2a0019_ZHSJ_029-bkkpn126}
   - {type: punctuation, offset: 650, content: 【, id: KR2a0019_ZHSJ_029-bkkpn127}
@@ -593,6 +594,7 @@ markers:
   - {type: 'tls:seg', offset: 1051, content: '', id: KR2a0019_ZHSJ_029-d29p8s10}
   - {type: punctuation, offset: 1053, content: (, id: KR2a0019_ZHSJ_029-bkkpn211}
   - {type: punctuation, offset: 1053, content: （, id: KR2a0019_ZHSJ_029-bkkpn212}
+  - {type: voice, offset: 1053, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1054, content: ）, id: KR2a0019_ZHSJ_029-bkkpn213}
   - {type: punctuation, offset: 1054, content: ), id: KR2a0019_ZHSJ_029-bkkpn214}
   - {type: punctuation, offset: 1054, content: 【, id: KR2a0019_ZHSJ_029-bkkpn215}
@@ -656,6 +658,7 @@ markers:
   - {type: punctuation, offset: 1136, content: 、, id: KR2a0019_ZHSJ_029-bkkpn236}
   - {type: punctuation, offset: 1137, content: (, id: KR2a0019_ZHSJ_029-bkkpn237}
   - {type: punctuation, offset: 1137, content: （, id: KR2a0019_ZHSJ_029-bkkpn238}
+  - {type: voice, offset: 1137, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1138, content: ）, id: KR2a0019_ZHSJ_029-bkkpn239}
   - {type: punctuation, offset: 1138, content: ), id: KR2a0019_ZHSJ_029-bkkpn240}
   - {type: punctuation, offset: 1138, content: 【, id: KR2a0019_ZHSJ_029-bkkpn241}
@@ -2008,4 +2011,4 @@ markers:
   - {type: variant, offset: 3415, length: 0, content: '', WYG: 陳書卷二十九}
   - {type: variant, offset: 3415, length: 0, content: '', krp: 陳書卷二十九}
   back: []
-hash: sha256:1c52b150c6f87e17f52dd01f60b5d17902ba1c4d79b94d2764b0a9a562307fa3
+hash: sha256:1878db96bd792678a885fdfe29ea3904ef14c07e314c21ea3157336ad66808ee

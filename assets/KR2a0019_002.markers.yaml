@@ -635,6 +635,7 @@ markers:
   - {type: punctuation, offset: 1041, content: （, id: KR2a0019_ZHSJ_002-bkkpn238}
   - {type: variant, offset: 1041, length: 1, content: 坰, WYG: ''}
   - {type: variant, offset: 1041, length: 1, content: 坰, krp: ''}
+  - {type: voice, offset: 1041, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1042, content: ）, id: KR2a0019_ZHSJ_002-bkkpn239}
   - {type: punctuation, offset: 1042, content: ), id: KR2a0019_ZHSJ_002-bkkpn240}
   - {type: punctuation, offset: 1042, content: 【, id: KR2a0019_ZHSJ_002-bkkpn241}
@@ -1094,6 +1095,7 @@ markers:
   - {type: punctuation, offset: 1858, content: （, id: KR2a0019_ZHSJ_002-bkkpn416}
   - {type: variant, offset: 1858, length: 1, content: 唱, WYG: ''}
   - {type: variant, offset: 1858, length: 1, content: 唱, krp: ''}
+  - {type: voice, offset: 1858, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1859, content: ）, id: KR2a0019_ZHSJ_002-bkkpn417}
   - {type: punctuation, offset: 1859, content: ), id: KR2a0019_ZHSJ_002-bkkpn418}
   - {type: punctuation, offset: 1859, content: 【, id: KR2a0019_ZHSJ_002-bkkpn419}
@@ -1101,6 +1103,7 @@ markers:
   - {type: line-break, offset: 1860, content: '', id: ZHSJ__dup429}
   - {type: punctuation, offset: 1862, content: (, id: KR2a0019_ZHSJ_002-bkkpn421}
   - {type: punctuation, offset: 1862, content: （, id: KR2a0019_ZHSJ_002-bkkpn422}
+  - {type: voice, offset: 1862, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1863, content: ）, id: KR2a0019_ZHSJ_002-bkkpn423}
   - {type: punctuation, offset: 1863, content: ), id: KR2a0019_ZHSJ_002-bkkpn424}
   - {type: punctuation, offset: 1867, content: ．, id: KR2a0019_ZHSJ_002-bkkpn425}
@@ -2168,6 +2171,7 @@ markers:
   - {type: punctuation, offset: 3979, content: （, id: KR2a0019_ZHSJ_002-bkkpn838}
   - {type: variant, offset: 3979, length: 1, content: 省, WYG: ''}
   - {type: variant, offset: 3979, length: 1, content: 省, krp: ''}
+  - {type: voice, offset: 3979, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3980, content: ）, id: KR2a0019_ZHSJ_002-bkkpn839}
   - {type: punctuation, offset: 3980, content: ), id: KR2a0019_ZHSJ_002-bkkpn840}
   - {type: punctuation, offset: 3981, content: ．, id: KR2a0019_ZHSJ_002-bkkpn841}
@@ -2377,4 +2381,4 @@ markers:
   - {type: page-break, offset: 4333, content: '', id: KR2a0019_WYG_002-15b, image: WYG0260/WYG0260-0545d.png}
   - {type: variant, offset: 4333, length: 0, content: '', krp: 陳書卷二陳書卷二考證高祖紀下輿駕幸大莊嚴寺設無㝵大會宋書㝵同礙浮屠字也南史作碍甲午廣州刺史歐陽頠表稱白龍見於州江南岸臣人龍按上文書丁酉夜大雪則甲午為前二日不應顛倒在後若南史稱甲子則以下文辛丑考之又不相合定有訛字不可考矣徵臨川王蒨蒨一本作諱盖仍姚察之舊也陳書卷二考證}
   back: []
-hash: sha256:0890eeedc650e324a2127ca7c7eb88c802435f68c156d38545c15bccd2e329dd
+hash: sha256:343ba84324297acf61fa8686cc86e34c3b9dfe642b7bd9890a30f4eab9ff54c2

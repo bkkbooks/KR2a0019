@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐散騎常侍姚思㢘撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup3699}
   - {type: punctuation, offset: 13, content: (, id: KR2a0019_ZHSJ_026-bkkpn1}
+  - {type: voice, offset: 13, length: 5, name: note, id: n1}
   - {type: indent, offset: 15, content: 　, id: KR2a0019_ZHSJ_026-bkkind1}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 克}
   - {type: variant, offset: 15, length: 0, content: '', krp: 克}
@@ -137,6 +138,7 @@ markers:
   - {type: punctuation, offset: 194, content: 【, id: KR2a0019_ZHSJ_026-bkkpn46}
   - {type: variant, offset: 194, length: 1, content: 三, WYG: 二}
   - {type: variant, offset: 194, length: 1, content: 三, krp: 二}
+  - {type: voice, offset: 194, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 195, content: 】, id: KR2a0019_ZHSJ_026-bkkpn47}
   - {type: punctuation, offset: 196, content: ，, id: KR2a0019_ZHSJ_026-bkkpn48}
   - {type: 'tls:seg', offset: 196, content: '', id: KR2a0019_ZHSJ_026-d26p3s6}
@@ -321,6 +323,7 @@ markers:
   - {type: 'tls:seg', offset: 543, content: '', id: KR2a0019_ZHSJ_026-d26p7s8}
   - {type: punctuation, offset: 546, content: (, id: KR2a0019_ZHSJ_026-bkkpn113}
   - {type: punctuation, offset: 546, content: （, id: KR2a0019_ZHSJ_026-bkkpn114}
+  - {type: voice, offset: 546, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 547, content: ）, id: KR2a0019_ZHSJ_026-bkkpn115}
   - {type: punctuation, offset: 547, content: ), id: KR2a0019_ZHSJ_026-bkkpn116}
   - {type: punctuation, offset: 547, content: 【, id: KR2a0019_ZHSJ_026-bkkpn117}
@@ -3640,4 +3643,4 @@ markers:
   - {type: page-break, offset: 5947, content: '', id: KR2a0019_WYG_026-20b, image: WYG0260/WYG0260-0712d.png}
   - {type: variant, offset: 5947, length: 0, content: '', krp: 陳書卷二十六陳書卷二十六考證徐陵傳述所製莊子義義一本誤二徐陵子儉一名衆衆南史作報徐陵弟孝克妻東莞臧氏領軍將軍臧盾之女也盾一本作質陳書卷二十六考證}
   back: []
-hash: sha256:6927c93994643a80ffa5452fd7ca76b7d34c0ac2cbfcb87dd3b98a6f3cf67fa5
+hash: sha256:d2f1ae193931adf486499e99e017b2f27cd05b8e243b10d5f3b771cde6b98f8b

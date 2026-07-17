@@ -18,9 +18,11 @@ markers:
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup2676}
   - {type: indent, offset: 12, content: 　, id: KR2a0019_ZHSJ_017-bkkind1}
   - {type: punctuation, offset: 14, content: (, id: KR2a0019_ZHSJ_017-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0019_ZHSJ_017-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0019_ZHSJ_017-bkkind2}
   - {type: punctuation, offset: 18, content: (, id: KR2a0019_ZHSJ_017-bkkpn3}
+  - {type: voice, offset: 18, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 21, content: ), id: KR2a0019_ZHSJ_017-bkkpn4}
   - {type: xml-element, offset: 21, content: '', id: KR2a0019_ZHSJ_017-bkkxmlele2}
   - {type: xml-element, offset: 21, content: '', id: KR2a0019_ZHSJ_017-bkkxmlele3}
@@ -776,6 +778,7 @@ markers:
   - {type: punctuation, offset: 1393, content: （, id: KR2a0019_ZHSJ_017-bkkpn288}
   - {type: variant, offset: 1393, length: 1, content: 為, WYG: ''}
   - {type: variant, offset: 1393, length: 1, content: 為, krp: ''}
+  - {type: voice, offset: 1393, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1394, content: ）, id: KR2a0019_ZHSJ_017-bkkpn289}
   - {type: punctuation, offset: 1394, content: ), id: KR2a0019_ZHSJ_017-bkkpn290}
   - {type: punctuation, offset: 1394, content: 【, id: KR2a0019_ZHSJ_017-bkkpn291}
@@ -1094,6 +1097,7 @@ markers:
   - {type: punctuation, offset: 1959, content: 、, id: KR2a0019_ZHSJ_017-bkkpn414}
   - {type: punctuation, offset: 1962, content: (, id: KR2a0019_ZHSJ_017-bkkpn415}
   - {type: punctuation, offset: 1962, content: （, id: KR2a0019_ZHSJ_017-bkkpn416}
+  - {type: voice, offset: 1962, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1963, content: ）, id: KR2a0019_ZHSJ_017-bkkpn417}
   - {type: punctuation, offset: 1963, content: ), id: KR2a0019_ZHSJ_017-bkkpn418}
   - {type: punctuation, offset: 1963, content: 【, id: KR2a0019_ZHSJ_017-bkkpn419}
@@ -1302,6 +1306,7 @@ markers:
   - {type: 'tls:seg', offset: 2360, content: '', id: KR2a0019_ZHSJ_017-d17p22s47}
   - {type: punctuation, offset: 2361, content: (, id: KR2a0019_ZHSJ_017-bkkpn502}
   - {type: punctuation, offset: 2361, content: （, id: KR2a0019_ZHSJ_017-bkkpn503}
+  - {type: voice, offset: 2361, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 2362, content: ）, id: KR2a0019_ZHSJ_017-bkkpn504}
   - {type: punctuation, offset: 2362, content: ), id: KR2a0019_ZHSJ_017-bkkpn505}
   - {type: punctuation, offset: 2362, content: 【, id: KR2a0019_ZHSJ_017-bkkpn506}
@@ -1372,6 +1377,7 @@ markers:
   - {type: punctuation, offset: 2472, content: （, id: KR2a0019_ZHSJ_017-bkkpn533}
   - {type: variant, offset: 2472, length: 1, content: 葬, WYG: 𦵏}
   - {type: variant, offset: 2472, length: 1, content: 葬, krp: 𦵏}
+  - {type: voice, offset: 2472, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 2473, content: ）, id: KR2a0019_ZHSJ_017-bkkpn534}
   - {type: punctuation, offset: 2473, content: ), id: KR2a0019_ZHSJ_017-bkkpn535}
   - {type: punctuation, offset: 2475, content: ，, id: KR2a0019_ZHSJ_017-bkkpn536}
@@ -1480,4 +1486,4 @@ markers:
   - {type: page-break, offset: 2650, content: '', id: KR2a0019_WYG_017-10b, image: WYG0260/WYG0260-0655d.png}
   - {type: variant, offset: 2650, length: 0, content: '', krp: 陳書卷十七陳書卷十七考證王通傳父琳司空左長史南史作司徒王通弟勱乃以勱監吳興郡監一本作兼陳書卷十七考證}
   back: []
-hash: sha256:1541284533f9a2f4d341f745821fd0e2d3af78e741133d3154515e7e399a2405
+hash: sha256:d01de1a5154abb62013610d4a216e870265a9feea5ab0b4261c1f73b9f3b4af9

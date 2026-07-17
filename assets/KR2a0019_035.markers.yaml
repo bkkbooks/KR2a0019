@@ -3215,6 +3215,7 @@ markers:
   - {type: line-break, offset: 5243, content: '', id: ZHSJ__dup5634}
   - {type: punctuation, offset: 5245, content: (, id: KR2a0019_ZHSJ_035-bkkpn1053}
   - {type: punctuation, offset: 5245, content: （, id: KR2a0019_ZHSJ_035-bkkpn1054}
+  - {type: voice, offset: 5245, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5246, content: ）, id: KR2a0019_ZHSJ_035-bkkpn1055}
   - {type: punctuation, offset: 5246, content: ), id: KR2a0019_ZHSJ_035-bkkpn1056}
   - {type: punctuation, offset: 5246, content: 【, id: KR2a0019_ZHSJ_035-bkkpn1057}
@@ -3298,6 +3299,7 @@ markers:
   - {type: punctuation, offset: 5364, content: （, id: KR2a0019_ZHSJ_035-bkkpn1084}
   - {type: variant, offset: 5364, length: 1, content: 乃, WYG: ''}
   - {type: variant, offset: 5364, length: 1, content: 乃, krp: ''}
+  - {type: voice, offset: 5364, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5365, content: ）, id: KR2a0019_ZHSJ_035-bkkpn1085}
   - {type: punctuation, offset: 5365, content: ), id: KR2a0019_ZHSJ_035-bkkpn1086}
   - {type: punctuation, offset: 5365, content: 【, id: KR2a0019_ZHSJ_035-bkkpn1087}
@@ -3493,6 +3495,7 @@ markers:
   - {type: line-break, offset: 5674, content: '', id: ZHSJ__dup5651}
   - {type: punctuation, offset: 5674, content: (, id: KR2a0019_ZHSJ_035-bkkpn1155}
   - {type: page-break, offset: 5674, content: '', id: KR2a0019_WYG_035-18b, image: WYG0260/WYG0260-0798d.png}
+  - {type: voice, offset: 5674, length: 35, name: note, id: n3}
   - {type: variant, offset: 5675, length: 19, content: 寶應傳此皆明恥教戰濡須鞠旅恐有誤潼州刺, WYG: 書卷三十五陳書卷三十五考證熊曇朗𫝊懸於朱雀觀觀南}
   - {type: page-break, offset: 5675, content: '', id: KR2a0019_WYG_035-19a, image: WYG0260/WYG0260-0799a.png}
   - {type: variant, offset: 5675, length: 19, content: 寶應傳此皆明恥教戰濡須鞠旅恐有誤潼州刺, krp: 書卷三十五陳書卷三十五考證熊曇朗𫝊懸於朱雀觀觀南}
@@ -3539,4 +3542,4 @@ markers:
   - {type: xml-element, offset: 5709, content: '', id: KR2a0019_ZHSJ_035-d35n1}
   - {type: xml-element, offset: 5709, content: '', id: KR2a0019_ZHSJ_035-d35n1_end}
   back: []
-hash: sha256:3264e2c33aa3a6d346e5dba6134e9bdc5e39b0ebd4bba6f9edb4245f2d37b683
+hash: sha256:c411c12528b32144487f83ffa48a39f33c79f7561d9f7c8bb6f6bb4c693e75d5

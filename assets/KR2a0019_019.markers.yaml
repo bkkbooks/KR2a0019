@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 11, length: 1, content: 炯, krp: 烱}
   - {type: indent, offset: 12, content: 　, id: KR2a0019_ZHSJ_019-bkkind1}
   - {type: punctuation, offset: 14, content: (, id: KR2a0019_ZHSJ_019-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0019_ZHSJ_019-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0019_ZHSJ_019-bkkind2}
   - {type: xml-element, offset: 18, content: '', id: KR2a0019_ZHSJ_019-bkkxmlele2}
@@ -315,6 +316,7 @@ markers:
   - {type: variant, offset: 524, length: 1, content: 別, krp: 别}
   - {type: punctuation, offset: 527, content: (, id: KR2a0019_ZHSJ_019-bkkpn101}
   - {type: punctuation, offset: 527, content: （, id: KR2a0019_ZHSJ_019-bkkpn102}
+  - {type: voice, offset: 527, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 528, content: ）, id: KR2a0019_ZHSJ_019-bkkpn103}
   - {type: punctuation, offset: 528, content: ), id: KR2a0019_ZHSJ_019-bkkpn104}
   - {type: punctuation, offset: 528, content: 【, id: KR2a0019_ZHSJ_019-bkkpn105}
@@ -435,6 +437,7 @@ markers:
   - {type: 'tls:seg', offset: 708, content: '', id: KR2a0019_ZHSJ_019-d19p7s12}
   - {type: punctuation, offset: 708, content: (, id: KR2a0019_ZHSJ_019-bkkpn152}
   - {type: punctuation, offset: 708, content: （, id: KR2a0019_ZHSJ_019-bkkpn153}
+  - {type: voice, offset: 708, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 709, content: ）, id: KR2a0019_ZHSJ_019-bkkpn154}
   - {type: punctuation, offset: 709, content: ), id: KR2a0019_ZHSJ_019-bkkpn155}
   - {type: punctuation, offset: 709, content: 【, id: KR2a0019_ZHSJ_019-bkkpn156}
@@ -1026,6 +1029,7 @@ markers:
   - {type: punctuation, offset: 1684, content: （, id: KR2a0019_ZHSJ_019-bkkpn376}
   - {type: variant, offset: 1684, length: 1, content: 刻, WYG: ''}
   - {type: variant, offset: 1684, length: 1, content: 刻, krp: ''}
+  - {type: voice, offset: 1684, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1685, content: ）, id: KR2a0019_ZHSJ_019-bkkpn377}
   - {type: punctuation, offset: 1685, content: ), id: KR2a0019_ZHSJ_019-bkkpn378}
   - {type: punctuation, offset: 1685, content: 【, id: KR2a0019_ZHSJ_019-bkkpn379}
@@ -1925,6 +1929,7 @@ markers:
   - {type: punctuation, offset: 3139, content: （, id: KR2a0019_ZHSJ_019-bkkpn695}
   - {type: variant, offset: 3139, length: 1, content: 入, WYG: ''}
   - {type: variant, offset: 3139, length: 1, content: 入, krp: ''}
+  - {type: voice, offset: 3139, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 3140, content: ）, id: KR2a0019_ZHSJ_019-bkkpn696}
   - {type: punctuation, offset: 3140, content: ), id: KR2a0019_ZHSJ_019-bkkpn697}
   - {type: punctuation, offset: 3140, content: 【, id: KR2a0019_ZHSJ_019-bkkpn698}
@@ -2255,6 +2260,7 @@ markers:
   - {type: punctuation, offset: 3592, content: （, id: KR2a0019_ZHSJ_019-bkkpn812}
   - {type: variant, offset: 3592, length: 1, content: 石, WYG: ''}
   - {type: variant, offset: 3592, length: 1, content: 石, krp: ''}
+  - {type: voice, offset: 3592, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 3593, content: ）, id: KR2a0019_ZHSJ_019-bkkpn813}
   - {type: punctuation, offset: 3593, content: ), id: KR2a0019_ZHSJ_019-bkkpn814}
   - {type: punctuation, offset: 3593, content: 【, id: KR2a0019_ZHSJ_019-bkkpn815}
@@ -3218,4 +3224,4 @@ markers:
   - {type: page-break, offset: 5233, content: '', id: KR2a0019_WYG_019-17b, image: WYG0260/WYG0260-0669d.png}
   - {type: variant, offset: 5233, length: 0, content: '', krp: 陳書卷十九陳書卷十九考證馬樞𫝊臣人龍按南史馬樞載隠逸𫝊今本卷載沈烱虞荔馬樞三人而下文史臣論止言沈虞不及馬樞未知何故陳書卷十九考證}
   back: []
-hash: sha256:e288af4057f09a935f96c89c1a6fb80170f57aa99feb4b72af4f4e960d7d2933
+hash: sha256:ecad0f1ae5045f23dc46069f97b9df21e14190e87171e1c32c49fb787317862d

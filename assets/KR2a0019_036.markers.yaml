@@ -676,6 +676,7 @@ markers:
   - {type: 'tls:seg', offset: 1240, content: '', id: KR2a0019_ZHSJ_036-d36p7s31}
   - {type: punctuation, offset: 1243, content: (, id: KR2a0019_ZHSJ_036-bkkpn230}
   - {type: punctuation, offset: 1243, content: （, id: KR2a0019_ZHSJ_036-bkkpn231}
+  - {type: voice, offset: 1243, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1244, content: ）, id: KR2a0019_ZHSJ_036-bkkpn232}
   - {type: punctuation, offset: 1244, content: ), id: KR2a0019_ZHSJ_036-bkkpn233}
   - {type: punctuation, offset: 1244, content: 【, id: KR2a0019_ZHSJ_036-bkkpn234}
@@ -693,6 +694,7 @@ markers:
   - {type: 'tls:seg', offset: 1268, content: '', id: KR2a0019_ZHSJ_036-d36p7s34}
   - {type: punctuation, offset: 1269, content: (, id: KR2a0019_ZHSJ_036-bkkpn240}
   - {type: punctuation, offset: 1269, content: （, id: KR2a0019_ZHSJ_036-bkkpn241}
+  - {type: voice, offset: 1269, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1270, content: ）, id: KR2a0019_ZHSJ_036-bkkpn242}
   - {type: punctuation, offset: 1270, content: ), id: KR2a0019_ZHSJ_036-bkkpn243}
   - {type: punctuation, offset: 1270, content: 【, id: KR2a0019_ZHSJ_036-bkkpn244}
@@ -1333,6 +1335,7 @@ markers:
   - {type: 'tls:seg', offset: 2323, content: '', id: KR2a0019_ZHSJ_036-d36p15s35}
   - {type: punctuation, offset: 2325, content: (, id: KR2a0019_ZHSJ_036-bkkpn467}
   - {type: punctuation, offset: 2325, content: （, id: KR2a0019_ZHSJ_036-bkkpn468}
+  - {type: voice, offset: 2325, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2326, content: ）, id: KR2a0019_ZHSJ_036-bkkpn469}
   - {type: punctuation, offset: 2326, content: ), id: KR2a0019_ZHSJ_036-bkkpn470}
   - {type: punctuation, offset: 2326, content: 【, id: KR2a0019_ZHSJ_036-bkkpn471}
@@ -1462,6 +1465,7 @@ markers:
   - {type: variant, offset: 2494, length: 0, content: '', WYG: 陳書卷三十六陳書卷三十六考證}
   - {type: page-break, offset: 2494, content: '', id: KR2a0019_WYG_036-9a, image: WYG0260/WYG0260-0803c.png}
   - {type: variant, offset: 2494, length: 0, content: '', krp: 陳書卷三十六陳書卷三十六考證}
+  - {type: voice, offset: 2494, length: 20, name: note, id: n4}
   - {type: variant, offset: 2497, length: 11, content: 傳王飛禽除伏波將軍或本, WYG: 叔陵𫝊叔陵有部下兵先在新林林南史}
   - {type: variant, offset: 2497, length: 11, content: 傳王飛禽除伏波將軍或本, krp: 叔陵𫝊叔陵有部下兵先在新林林南史}
   - {type: 'tls:seg', offset: 2498, content: '', id: KR2a0019_ZHSJ_036-d36p17s2}
@@ -1484,4 +1488,4 @@ markers:
   - {type: xml-element, offset: 2514, content: '', id: KR2a0019_ZHSJ_036-d36n1}
   - {type: xml-element, offset: 2514, content: '', id: KR2a0019_ZHSJ_036-d36n1_end}
   back: []
-hash: sha256:d2cc050c2b45ebac9aea5b174b14171dc03195c5645963c65d69fa8b93f8b758
+hash: sha256:12c30757b3fee7f25fed846f1e231d78883e5e68d5eadd24e39ba1081014904b

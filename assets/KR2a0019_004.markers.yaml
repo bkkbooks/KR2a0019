@@ -114,6 +114,7 @@ markers:
   - {type: line-break, offset: 174, content: '', id: ZHSJ__dup762}
   - {type: punctuation, offset: 176, content: (, id: KR2a0019_ZHSJ_004-bkkpn36}
   - {type: punctuation, offset: 176, content: （, id: KR2a0019_ZHSJ_004-bkkpn37}
+  - {type: voice, offset: 176, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 177, content: ）, id: KR2a0019_ZHSJ_004-bkkpn38}
   - {type: punctuation, offset: 177, content: ), id: KR2a0019_ZHSJ_004-bkkpn39}
   - {type: punctuation, offset: 177, content: 【, id: KR2a0019_ZHSJ_004-bkkpn40}
@@ -513,6 +514,7 @@ markers:
   - {type: punctuation, offset: 1050, content: 、, id: KR2a0019_ZHSJ_004-bkkpn197}
   - {type: punctuation, offset: 1052, content: (, id: KR2a0019_ZHSJ_004-bkkpn198}
   - {type: punctuation, offset: 1052, content: （, id: KR2a0019_ZHSJ_004-bkkpn199}
+  - {type: voice, offset: 1052, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1053, content: ）, id: KR2a0019_ZHSJ_004-bkkpn200}
   - {type: punctuation, offset: 1053, content: ), id: KR2a0019_ZHSJ_004-bkkpn201}
   - {type: punctuation, offset: 1053, content: 【, id: KR2a0019_ZHSJ_004-bkkpn202}
@@ -1037,6 +1039,7 @@ markers:
   - {type: punctuation, offset: 1992, content: （, id: KR2a0019_ZHSJ_004-bkkpn390}
   - {type: variant, offset: 1992, length: 2, content: 宮官, WYG: 宫}
   - {type: variant, offset: 1992, length: 2, content: 宮官, krp: 宫}
+  - {type: voice, offset: 1992, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1993, content: ）, id: KR2a0019_ZHSJ_004-bkkpn391}
   - {type: punctuation, offset: 1993, content: ), id: KR2a0019_ZHSJ_004-bkkpn392}
   - {type: punctuation, offset: 1993, content: 【, id: KR2a0019_ZHSJ_004-bkkpn393}
@@ -1343,4 +1346,4 @@ markers:
   - {type: variant, offset: 2439, length: 0, content: '', WYG: 陳書卷四}
   - {type: variant, offset: 2439, length: 0, content: '', krp: 陳書卷四}
   back: []
-hash: sha256:5f9587c2881c9001d23bb6d2e0e34e6c35b4e8580d5ae16d4193baf9e46a52aa
+hash: sha256:791c6e27220866f573c99ef262960dbbff7409ba79b0b37e995512a4ac9fd1c9

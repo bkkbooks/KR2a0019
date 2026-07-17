@@ -1728,6 +1728,7 @@ markers:
   - {type: punctuation, offset: 2767, content: （, id: KR2a0019_ZHSJ_016-bkkpn589}
   - {type: variant, offset: 2767, length: 1, content: 位, WYG: ''}
   - {type: variant, offset: 2767, length: 1, content: 位, krp: ''}
+  - {type: voice, offset: 2767, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2768, content: ）, id: KR2a0019_ZHSJ_016-bkkpn590}
   - {type: punctuation, offset: 2768, content: ), id: KR2a0019_ZHSJ_016-bkkpn591}
   - {type: punctuation, offset: 2768, content: 【, id: KR2a0019_ZHSJ_016-bkkpn592}
@@ -1771,6 +1772,7 @@ markers:
   - {type: punctuation, offset: 2836, content: （, id: KR2a0019_ZHSJ_016-bkkpn610}
   - {type: variant, offset: 2836, length: 1, content: 社, WYG: ''}
   - {type: variant, offset: 2836, length: 1, content: 社, krp: ''}
+  - {type: voice, offset: 2836, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2837, content: ）, id: KR2a0019_ZHSJ_016-bkkpn611}
   - {type: punctuation, offset: 2837, content: ), id: KR2a0019_ZHSJ_016-bkkpn612}
   - {type: punctuation, offset: 2837, content: 【, id: KR2a0019_ZHSJ_016-bkkpn613}
@@ -2244,6 +2246,7 @@ markers:
   - {type: punctuation, offset: 3694, content: （, id: KR2a0019_ZHSJ_016-bkkpn805}
   - {type: variant, offset: 3694, length: 1, content: 孔, WYG: ''}
   - {type: variant, offset: 3694, length: 1, content: 孔, krp: ''}
+  - {type: voice, offset: 3694, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3695, content: ）, id: KR2a0019_ZHSJ_016-bkkpn806}
   - {type: punctuation, offset: 3695, content: ), id: KR2a0019_ZHSJ_016-bkkpn807}
   - {type: punctuation, offset: 3695, content: 【, id: KR2a0019_ZHSJ_016-bkkpn808}
@@ -2550,6 +2553,7 @@ markers:
   - {type: variant, offset: 4203, length: 2, content: 劉師, WYG: 陳書卷十六陳書卷十六考證趙}
   - {type: page-break, offset: 4203, content: '', id: KR2a0019_WYG_016-14a, image: WYG0260/WYG0260-0650c.png}
   - {type: variant, offset: 4203, length: 2, content: 劉師, krp: 陳書卷十六陳書卷十六考證趙}
+  - {type: voice, offset: 4203, length: 10, name: note, id: n4}
   - {type: variant, offset: 4206, length: 0, content: '', WYG: 禮}
   - {type: variant, offset: 4206, length: 0, content: '', krp: 禮}
   - {type: 'tls:seg', offset: 4207, content: '', id: KR2a0019_ZHSJ_016-d16p47s2}
@@ -2569,4 +2573,4 @@ markers:
   - {type: xml-element, offset: 4213, content: '', id: KR2a0019_ZHSJ_016-d16n1}
   - {type: xml-element, offset: 4213, content: '', id: KR2a0019_ZHSJ_016-d16n1_end}
   back: []
-hash: sha256:04894f1411b6c99dde5f330b6e7fffb7d8b669f88b0f8273506ef126fe0077e8
+hash: sha256:a31cfaae48100d68279598ae9095d8f8f8a7a7aba29b203d2c3b6e46fb612941

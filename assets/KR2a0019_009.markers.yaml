@@ -18,9 +18,11 @@ markers:
   - {type: variant, offset: 8, length: 1, content: 侯, krp: 矦}
   - {type: indent, offset: 10, content: 　, id: KR2a0019_ZHSJ_009-bkkind1}
   - {type: punctuation, offset: 13, content: (, id: KR2a0019_ZHSJ_009-bkkpn1}
+  - {type: voice, offset: 13, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 15, content: ), id: KR2a0019_ZHSJ_009-bkkpn2}
   - {type: indent, offset: 15, content: 　, id: KR2a0019_ZHSJ_009-bkkind2}
   - {type: punctuation, offset: 18, content: (, id: KR2a0019_ZHSJ_009-bkkpn3}
+  - {type: voice, offset: 18, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 21, content: ), id: KR2a0019_ZHSJ_009-bkkpn4}
   - {type: xml-element, offset: 21, content: '', id: KR2a0019_ZHSJ_009-bkkxmlele2}
   - {type: xml-element, offset: 21, content: '', id: KR2a0019_ZHSJ_009-bkkxmlele3}
@@ -169,6 +171,7 @@ markers:
   - {type: punctuation, offset: 320, content: （, id: KR2a0019_ZHSJ_009-bkkpn57}
   - {type: variant, offset: 320, length: 1, content: 我, WYG: ''}
   - {type: variant, offset: 320, length: 1, content: 我, krp: ''}
+  - {type: voice, offset: 320, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 321, content: ）, id: KR2a0019_ZHSJ_009-bkkpn58}
   - {type: punctuation, offset: 321, content: ), id: KR2a0019_ZHSJ_009-bkkpn59}
   - {type: punctuation, offset: 321, content: 【, id: KR2a0019_ZHSJ_009-bkkpn60}
@@ -2390,6 +2393,7 @@ markers:
   - {type: punctuation, offset: 4763, content: （, id: KR2a0019_ZHSJ_009-bkkpn943}
   - {type: variant, offset: 4763, length: 1, content: 乞, WYG: ''}
   - {type: variant, offset: 4763, length: 1, content: 乞, krp: ''}
+  - {type: voice, offset: 4763, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 4764, content: ）, id: KR2a0019_ZHSJ_009-bkkpn944}
   - {type: punctuation, offset: 4764, content: ), id: KR2a0019_ZHSJ_009-bkkpn945}
   - {type: punctuation, offset: 4764, content: 【, id: KR2a0019_ZHSJ_009-bkkpn946}
@@ -2673,6 +2677,7 @@ markers:
   - {type: variant, offset: 5178, length: 0, content: '', WYG: 陳書卷九陳書卷九考證}
   - {type: page-break, offset: 5178, content: '', id: KR2a0019_WYG_009-17a, image: WYG0260/WYG0260-0612c.png}
   - {type: variant, offset: 5178, length: 0, content: '', krp: 陳書卷九陳書卷九考證}
+  - {type: voice, offset: 5178, length: 29, name: note, id: n5}
   - {type: 'tls:seg', offset: 5181, content: '', id: KR2a0019_ZHSJ_009-d9p42s2}
   - {type: punctuation, offset: 5181, content: 「, id: KR2a0019_ZHSJ_009-bkkpn1044}
   - {type: variant, offset: 5181, length: 0, content: '', WYG: 瑱令軍中晨炊蓐食}
@@ -2724,4 +2729,4 @@ markers:
   - {type: xml-element, offset: 5207, content: '', id: KR2a0019_ZHSJ_009-d9n1}
   - {type: xml-element, offset: 5207, content: '', id: KR2a0019_ZHSJ_009-d9n1_end}
   back: []
-hash: sha256:7161acc658d80469bc06a8a00d76127cd676ea5b144e42bd04aa02080339161b
+hash: sha256:a308cf322e040ebff4b47bc24f903fb2fedc96b4d0fb0494fdd57c4e1f8a2eef

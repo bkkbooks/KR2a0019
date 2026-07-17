@@ -481,12 +481,14 @@ markers:
   - {type: punctuation, offset: 924, content: 【, id: KR2a0019_ZHSJ_006-bkkpn192}
   - {type: variant, offset: 924, length: 1, content: 八, WYG: 五}
   - {type: variant, offset: 924, length: 1, content: 八, krp: 五}
+  - {type: voice, offset: 924, length: 0, name: note, id: n1}
   - {type: punctuation, offset: 925, content: 】, id: KR2a0019_ZHSJ_006-bkkpn193}
   - {type: punctuation, offset: 928, content: ．, id: KR2a0019_ZHSJ_006-bkkpn194}
   - {type: punctuation, offset: 928, content: 〔七〕, id: KR2a0019_ZHSJ_006-bkkpn195}
   - {type: 'tls:seg', offset: 928, content: '', id: KR2a0019_ZHSJ_006-d6p4s73}
   - {type: punctuation, offset: 930, content: (, id: KR2a0019_ZHSJ_006-bkkpn196}
   - {type: punctuation, offset: 930, content: （, id: KR2a0019_ZHSJ_006-bkkpn197}
+  - {type: voice, offset: 930, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 931, content: ）, id: KR2a0019_ZHSJ_006-bkkpn198}
   - {type: punctuation, offset: 931, content: ), id: KR2a0019_ZHSJ_006-bkkpn199}
   - {type: punctuation, offset: 931, content: 【, id: KR2a0019_ZHSJ_006-bkkpn200}
@@ -1412,6 +1414,7 @@ markers:
   - {type: punctuation, offset: 2768, content: （, id: KR2a0019_ZHSJ_006-bkkpn538}
   - {type: variant, offset: 2768, length: 1, content: 伸, WYG: ''}
   - {type: variant, offset: 2768, length: 1, content: 伸, krp: ''}
+  - {type: voice, offset: 2768, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2769, content: ）, id: KR2a0019_ZHSJ_006-bkkpn539}
   - {type: punctuation, offset: 2769, content: ), id: KR2a0019_ZHSJ_006-bkkpn540}
   - {type: punctuation, offset: 2769, content: 【, id: KR2a0019_ZHSJ_006-bkkpn541}
@@ -1615,6 +1618,7 @@ markers:
   - {type: punctuation, offset: 3074, content: （, id: KR2a0019_ZHSJ_006-bkkpn618}
   - {type: variant, offset: 3074, length: 2, content: 遠達, WYG: 逹}
   - {type: variant, offset: 3074, length: 2, content: 遠達, krp: 逹}
+  - {type: voice, offset: 3074, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3075, content: ）, id: KR2a0019_ZHSJ_006-bkkpn619}
   - {type: punctuation, offset: 3075, content: ), id: KR2a0019_ZHSJ_006-bkkpn620}
   - {type: punctuation, offset: 3075, content: 【, id: KR2a0019_ZHSJ_006-bkkpn621}
@@ -2435,6 +2439,7 @@ markers:
   - {type: line-break, offset: 4823, content: '', id: ZHSJ__dup1382}
   - {type: punctuation, offset: 4831, content: (, id: KR2a0019_ZHSJ_006-bkkpn936}
   - {type: punctuation, offset: 4831, content: （, id: KR2a0019_ZHSJ_006-bkkpn937}
+  - {type: voice, offset: 4831, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 4832, content: ）, id: KR2a0019_ZHSJ_006-bkkpn938}
   - {type: punctuation, offset: 4832, content: ), id: KR2a0019_ZHSJ_006-bkkpn939}
   - {type: punctuation, offset: 4832, content: 【, id: KR2a0019_ZHSJ_006-bkkpn940}
@@ -3254,4 +3259,4 @@ markers:
   - {type: page-break, offset: 6209, content: '', id: KR2a0019_WYG_006-21b, image: WYG0260/WYG0260-0587b.png}
   - {type: variant, offset: 6209, length: 0, content: '', krp: 陳書卷六陳書卷六考證後主紀丁卯立弟叔重為始興王奉昭烈王祀重一本作敦南史同是用甲旦凝慮丙夜損懐甲應作申肄艫艦閲武宴羣臣賦詩肄各本訛肆今改從南史陳書卷六考證}
   back: []
-hash: sha256:3ffd2d2e34ca1c79e129dd9b90472fbec51678fdea77624b331320042dfecd8e
+hash: sha256:171a95bcf054764702178a0b3e886c507a356173d2d6e310c7fcd78bd12f6042

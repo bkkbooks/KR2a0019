@@ -24,6 +24,7 @@ markers:
   - {type: line-break, offset: 28, content: '', id: ZHSJ__dup1434}
   - {type: indent, offset: 33, content: 　, id: KR2a0019_ZHSJ_007-bkkind4}
   - {type: punctuation, offset: 33, content: (, id: KR2a0019_ZHSJ_007-bkkpn1}
+  - {type: voice, offset: 33, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 36, content: ), id: KR2a0019_ZHSJ_007-bkkpn2}
   - {type: xml-element, offset: 36, content: '', id: KR2a0019_ZHSJ_007-bkkxmlele2}
   - {type: xml-element, offset: 36, content: '', id: KR2a0019_ZHSJ_007-bkkxmlele3}
@@ -152,6 +153,7 @@ markers:
   - {type: punctuation, offset: 241, content: （, id: KR2a0019_ZHSJ_007-bkkpn56}
   - {type: variant, offset: 241, length: 1, content: 令, WYG: ''}
   - {type: variant, offset: 241, length: 1, content: 令, krp: ''}
+  - {type: voice, offset: 241, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 242, content: ）, id: KR2a0019_ZHSJ_007-bkkpn57}
   - {type: punctuation, offset: 242, content: ), id: KR2a0019_ZHSJ_007-bkkpn58}
   - {type: punctuation, offset: 242, content: 【, id: KR2a0019_ZHSJ_007-bkkpn59}
@@ -438,6 +440,7 @@ markers:
   - {type: 'tls:seg', offset: 759, content: '', id: KR2a0019_ZHSJ_007-d7p6s19}
   - {type: punctuation, offset: 761, content: (, id: KR2a0019_ZHSJ_007-bkkpn159}
   - {type: punctuation, offset: 761, content: （, id: KR2a0019_ZHSJ_007-bkkpn160}
+  - {type: voice, offset: 761, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 762, content: ）, id: KR2a0019_ZHSJ_007-bkkpn161}
   - {type: punctuation, offset: 762, content: ), id: KR2a0019_ZHSJ_007-bkkpn162}
   - {type: punctuation, offset: 762, content: 【, id: KR2a0019_ZHSJ_007-bkkpn163}
@@ -1681,4 +1684,4 @@ markers:
   - {type: page-break, offset: 3102, content: '', id: KR2a0019_WYG_007-11b, image: WYG0260/WYG0260-0593d.png}
   - {type: variant, offset: 3102, length: 0, content: '', krp: 陳書卷七陳書卷七考證髙祖宣皇后章氏傳后母蘇后監本誤後今改正髙祖先娶同郡錢仲方女方一本作芳後主沈皇后傳后自廣陵過江還鄉里不知所終南史自廣陵過江於毗陵天靜寺為尼名觀音貞觀中卒與此小異陳書卷七考證}
   back: []
-hash: sha256:00ec91223fbe71832dbc75f272afdb0318f73b8fcf06af3a300a19907d9d1031
+hash: sha256:6ea09a216518f28bc4e24d3c49fc3e2466a63a06f05bd1927c5b6d9e4cbb6e9a

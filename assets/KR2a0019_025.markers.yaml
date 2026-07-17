@@ -540,6 +540,7 @@ markers:
   - {type: 'tls:seg', offset: 1002, content: '', id: KR2a0019_ZHSJ_025-d25p9s10}
   - {type: punctuation, offset: 1007, content: (, id: KR2a0019_ZHSJ_025-bkkpn191}
   - {type: punctuation, offset: 1007, content: （, id: KR2a0019_ZHSJ_025-bkkpn192}
+  - {type: voice, offset: 1007, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1008, content: ）, id: KR2a0019_ZHSJ_025-bkkpn193}
   - {type: punctuation, offset: 1008, content: ), id: KR2a0019_ZHSJ_025-bkkpn194}
   - {type: punctuation, offset: 1008, content: 【, id: KR2a0019_ZHSJ_025-bkkpn195}
@@ -1091,6 +1092,7 @@ markers:
   - {type: punctuation, offset: 1984, content: （, id: KR2a0019_ZHSJ_025-bkkpn404}
   - {type: variant, offset: 1984, length: 1, content: 推, WYG: ''}
   - {type: variant, offset: 1984, length: 1, content: 推, krp: ''}
+  - {type: voice, offset: 1984, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1985, content: ）, id: KR2a0019_ZHSJ_025-bkkpn405}
   - {type: punctuation, offset: 1985, content: ), id: KR2a0019_ZHSJ_025-bkkpn406}
   - {type: line-break, offset: 1985, content: '', id: ZHSJ__dup3695}
@@ -1137,4 +1139,4 @@ markers:
   - {type: page-break, offset: 2051, content: '', id: KR2a0019_WYG_025-8b, image: WYG0260/WYG0260-0702d.png}
   - {type: variant, offset: 2051, length: 0, content: '', krp: 陳書卷二十五陳書卷二十五考證孫瑒傳孫瑒字德璉瑒一本作陽陳書卷二十五考證}
   back: []
-hash: sha256:4e15ecf35ae2e60b721c16015e11e104659665581d8a79ed20a1a71948d9099f
+hash: sha256:5b51360c4d73b602327437fb445e4ea19ad2d4abaa8ade707b3e499c559325bd

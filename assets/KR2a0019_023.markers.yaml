@@ -530,6 +530,7 @@ markers:
   - {type: 'tls:seg', offset: 952, content: '', id: KR2a0019_ZHSJ_023-d23p8s24}
   - {type: punctuation, offset: 955, content: (, id: KR2a0019_ZHSJ_023-bkkpn194}
   - {type: punctuation, offset: 955, content: （, id: KR2a0019_ZHSJ_023-bkkpn195}
+  - {type: voice, offset: 955, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 956, content: ）, id: KR2a0019_ZHSJ_023-bkkpn196}
   - {type: punctuation, offset: 956, content: ), id: KR2a0019_ZHSJ_023-bkkpn197}
   - {type: punctuation, offset: 959, content: ．, id: KR2a0019_ZHSJ_023-bkkpn198}
@@ -680,6 +681,7 @@ markers:
   - {type: punctuation, offset: 1218, content: 【, id: KR2a0019_ZHSJ_023-bkkpn257}
   - {type: variant, offset: 1218, length: 1, content: 八, WYG: 六}
   - {type: variant, offset: 1218, length: 1, content: 八, krp: 六}
+  - {type: voice, offset: 1218, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 1219, content: 】, id: KR2a0019_ZHSJ_023-bkkpn258}
   - {type: punctuation, offset: 1221, content: ，, id: KR2a0019_ZHSJ_023-bkkpn259}
   - {type: punctuation, offset: 1221, content: 〔四〕, id: KR2a0019_ZHSJ_023-bkkpn260}
@@ -722,6 +724,7 @@ markers:
   - {type: punctuation, offset: 1265, content: 【, id: KR2a0019_ZHSJ_023-bkkpn275}
   - {type: variant, offset: 1265, length: 1, content: 三, WYG: 五}
   - {type: variant, offset: 1265, length: 1, content: 三, krp: 五}
+  - {type: voice, offset: 1265, length: 0, name: note, id: n3}
   - {type: punctuation, offset: 1266, content: 】, id: KR2a0019_ZHSJ_023-bkkpn276}
   - {type: punctuation, offset: 1267, content: ，, id: KR2a0019_ZHSJ_023-bkkpn277}
   - {type: punctuation, offset: 1267, content: 〔五〕, id: KR2a0019_ZHSJ_023-bkkpn278}
@@ -804,6 +807,7 @@ markers:
   - {type: punctuation, offset: 1390, content: （, id: KR2a0019_ZHSJ_023-bkkpn307}
   - {type: variant, offset: 1390, length: 1, content: 倕, WYG: ''}
   - {type: variant, offset: 1390, length: 1, content: 倕, krp: ''}
+  - {type: voice, offset: 1390, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1391, content: ）, id: KR2a0019_ZHSJ_023-bkkpn308}
   - {type: punctuation, offset: 1391, content: ), id: KR2a0019_ZHSJ_023-bkkpn309}
   - {type: punctuation, offset: 1391, content: 【, id: KR2a0019_ZHSJ_023-bkkpn310}
@@ -1118,4 +1122,4 @@ markers:
   - {type: page-break, offset: 1920, content: '', id: KR2a0019_WYG_023-8b, image: WYG0260/WYG0260-0692b.png}
   - {type: variant, offset: 1920, length: 0, content: '', krp: 陳書卷二十三陳書卷二十三考證沈君理𫝊拜駙馬都尉封永安亭侯亭監本誤定今改從南史陸繕𫝊陸繕字士繻繻一本作儒父任梁御史中丞任一本作倕陳書卷二十三考證}
   back: []
-hash: sha256:ad15fffd816d770b27d7eaa56127e58b959f940e380d3a350f91eaa333eafe4b
+hash: sha256:5b303741852e82538c9778ee1531692e155a3fc7475b6a55d3a2d5a6f5d0f35f

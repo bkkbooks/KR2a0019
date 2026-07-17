@@ -18,6 +18,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup4828}
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup4829}
   - {type: punctuation, offset: 17, content: (, id: KR2a0019_ZHSJ_032-bkkpn1}
+  - {type: voice, offset: 17, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 20, content: ), id: KR2a0019_ZHSJ_032-bkkpn2}
   - {type: indent, offset: 20, content: 　, id: KR2a0019_ZHSJ_032-bkkind1}
   - {type: indent, offset: 22, content: 　, id: KR2a0019_ZHSJ_032-bkkind2}
@@ -1848,4 +1849,4 @@ markers:
   - {type: page-break, offset: 3132, content: '', id: KR2a0019_WYG_032-12b, image: WYG0260/WYG0260-0764d.png}
   - {type: variant, offset: 3132, length: 0, content: '', krp: 陳書卷三十二陳書卷三十二考證殷不害𫝊祖任齊豫章王行參軍任南史作汪陳書卷三十二考證}
   back: []
-hash: sha256:13440c857721e4e61ee12034bdef2d720a6c16113ba4fb86b608da779ddd1045
+hash: sha256:703df82535b756201da559435e67435365136c445e61a3a9ee3376a89dd39454

@@ -17,6 +17,7 @@ markers:
   - {type: variant, offset: 12, length: 1, content: 弘, WYG: 宏}
   - {type: variant, offset: 12, length: 1, content: 弘, krp: 宏}
   - {type: punctuation, offset: 14, content: (, id: KR2a0019_ZHSJ_024-bkkpn1}
+  - {type: voice, offset: 14, length: 7, name: note, id: n1}
   - {type: variant, offset: 15, length: 1, content: 弘, WYG: 宏}
   - {type: variant, offset: 15, length: 1, content: 弘, krp: 宏}
   - {type: indent, offset: 17, content: 　, id: KR2a0019_ZHSJ_024-bkkind1}
@@ -38,6 +39,7 @@ markers:
   - {type: punctuation, offset: 34, content: （, id: KR2a0019_ZHSJ_024-bkkpn5}
   - {type: variant, offset: 34, length: 1, content: 也, WYG: ''}
   - {type: variant, offset: 34, length: 1, content: 也, krp: ''}
+  - {type: voice, offset: 34, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 35, content: ）, id: KR2a0019_ZHSJ_024-bkkpn6}
   - {type: punctuation, offset: 35, content: ), id: KR2a0019_ZHSJ_024-bkkpn7}
   - {type: punctuation, offset: 35, content: ，, id: KR2a0019_ZHSJ_024-bkkpn8}
@@ -74,6 +76,7 @@ markers:
   - {type: 'tls:seg', offset: 74, content: '', id: KR2a0019_ZHSJ_024-d24p3s3}
   - {type: punctuation, offset: 76, content: (, id: KR2a0019_ZHSJ_024-bkkpn19}
   - {type: punctuation, offset: 76, content: （, id: KR2a0019_ZHSJ_024-bkkpn20}
+  - {type: voice, offset: 76, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 77, content: ）, id: KR2a0019_ZHSJ_024-bkkpn21}
   - {type: punctuation, offset: 77, content: ), id: KR2a0019_ZHSJ_024-bkkpn22}
   - {type: punctuation, offset: 77, content: 【, id: KR2a0019_ZHSJ_024-bkkpn23}
@@ -198,6 +201,7 @@ markers:
   - {type: punctuation, offset: 262, content: 【, id: KR2a0019_ZHSJ_024-bkkpn75}
   - {type: variant, offset: 262, length: 1, content: 三, WYG: 二}
   - {type: variant, offset: 262, length: 1, content: 三, krp: 二}
+  - {type: voice, offset: 262, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 263, content: 】, id: KR2a0019_ZHSJ_024-bkkpn76}
   - {type: punctuation, offset: 264, content: ，, id: KR2a0019_ZHSJ_024-bkkpn77}
   - {type: 'tls:seg', offset: 264, content: '', id: KR2a0019_ZHSJ_024-d24p4s2}
@@ -391,6 +395,7 @@ markers:
   - {type: variant, offset: 581, length: 2, content: 於遂, krp: 于}
   - {type: punctuation, offset: 582, content: (, id: KR2a0019_ZHSJ_024-bkkpn148}
   - {type: punctuation, offset: 582, content: （, id: KR2a0019_ZHSJ_024-bkkpn149}
+  - {type: voice, offset: 582, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 583, content: ）, id: KR2a0019_ZHSJ_024-bkkpn150}
   - {type: punctuation, offset: 583, content: ), id: KR2a0019_ZHSJ_024-bkkpn151}
   - {type: punctuation, offset: 583, content: 【, id: KR2a0019_ZHSJ_024-bkkpn152}
@@ -2277,6 +2282,7 @@ markers:
   - {type: punctuation, offset: 3813, content: 【, id: KR2a0019_ZHSJ_024-bkkpn844}
   - {type: variant, offset: 3813, length: 1, content: 三, WYG: 元}
   - {type: variant, offset: 3813, length: 1, content: 三, krp: 元}
+  - {type: voice, offset: 3813, length: 0, name: note, id: n6}
   - {type: punctuation, offset: 3814, content: 】, id: KR2a0019_ZHSJ_024-bkkpn845}
   - {type: punctuation, offset: 3815, content: ，, id: KR2a0019_ZHSJ_024-bkkpn846}
   - {type: 'tls:seg', offset: 3815, content: '', id: KR2a0019_ZHSJ_024-d24p33s2}
@@ -2423,4 +2429,4 @@ markers:
   - {type: variant, offset: 4090, length: 0, content: '', WYG: 陳書卷二十四}
   - {type: variant, offset: 4090, length: 0, content: '', krp: 陳書卷二十四}
   back: []
-hash: sha256:31d3ba2a3537ff184d840fb906771c84f29ce6a6a711f8ff4ad925c5501b4803
+hash: sha256:30b32224af010a1166c04bf3c196b08105627850223ff3bf0ee2ac9fe36e4ac4

@@ -84,6 +84,7 @@ markers:
   - {type: 'tls:seg', offset: 190, content: '', id: KR2a0019_ZHSJ_028-d28p3s9}
   - {type: punctuation, offset: 190, content: (, id: KR2a0019_ZHSJ_028-bkkpn24}
   - {type: punctuation, offset: 190, content: （, id: KR2a0019_ZHSJ_028-bkkpn25}
+  - {type: voice, offset: 190, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 192, content: ）, id: KR2a0019_ZHSJ_028-bkkpn26}
   - {type: punctuation, offset: 192, content: ), id: KR2a0019_ZHSJ_028-bkkpn27}
   - {type: punctuation, offset: 192, content: 【, id: KR2a0019_ZHSJ_028-bkkpn28}
@@ -106,6 +107,7 @@ markers:
   - {type: 'tls:seg', offset: 218, content: '', id: KR2a0019_ZHSJ_028-d28p3s11}
   - {type: punctuation, offset: 219, content: (, id: KR2a0019_ZHSJ_028-bkkpn37}
   - {type: punctuation, offset: 219, content: （, id: KR2a0019_ZHSJ_028-bkkpn38}
+  - {type: voice, offset: 219, length: 4, name: note, id: n2}
   - {type: variant, offset: 222, length: 4, content: 公長城縣, WYG: ''}
   - {type: variant, offset: 222, length: 4, content: 公長城縣, krp: ''}
   - {type: punctuation, offset: 223, content: ）, id: KR2a0019_ZHSJ_028-bkkpn39}
@@ -1668,6 +1670,7 @@ markers:
   - {type: punctuation, offset: 3212, content: （, id: KR2a0019_ZHSJ_028-bkkpn656}
   - {type: variant, offset: 3212, length: 2, content: 引弘, WYG: 𢎞}
   - {type: variant, offset: 3212, length: 2, content: 引弘, krp: 𢎞}
+  - {type: voice, offset: 3212, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3213, content: ）, id: KR2a0019_ZHSJ_028-bkkpn657}
   - {type: punctuation, offset: 3213, content: ), id: KR2a0019_ZHSJ_028-bkkpn658}
   - {type: punctuation, offset: 3213, content: 【, id: KR2a0019_ZHSJ_028-bkkpn659}
@@ -2066,6 +2069,7 @@ markers:
   - {type: punctuation, offset: 3912, content: （, id: KR2a0019_ZHSJ_028-bkkpn819}
   - {type: variant, offset: 3912, length: 2, content: 洫溫, WYG: 温}
   - {type: variant, offset: 3912, length: 2, content: 洫溫, krp: 温}
+  - {type: voice, offset: 3912, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3913, content: ）, id: KR2a0019_ZHSJ_028-bkkpn820}
   - {type: punctuation, offset: 3913, content: ), id: KR2a0019_ZHSJ_028-bkkpn821}
   - {type: punctuation, offset: 3913, content: 【, id: KR2a0019_ZHSJ_028-bkkpn822}
@@ -4117,6 +4121,7 @@ markers:
   - {type: punctuation, offset: 7759, content: (, id: KR2a0019_ZHSJ_028-bkkpn1577}
   - {type: variant, offset: 7759, length: 1, content: 會, WYG: ''}
   - {type: variant, offset: 7759, length: 1, content: 會, krp: ''}
+  - {type: voice, offset: 7759, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 7760, content: ）, id: KR2a0019_ZHSJ_028-bkkpn1578}
   - {type: punctuation, offset: 7760, content: ), id: KR2a0019_ZHSJ_028-bkkpn1579}
   - {type: punctuation, offset: 7761, content: 【, id: KR2a0019_ZHSJ_028-bkkpn1580}
@@ -4309,4 +4314,4 @@ markers:
   - {type: page-break, offset: 8064, content: '', id: KR2a0019_WYG_028-27b, image: WYG0260/WYG0260-0735d.png}
   - {type: variant, offset: 8064, length: 0, content: '', krp: 陳書卷二十八陳書卷二十八考證始興王伯茂𫝊時高宗在周未還宗監本誤祖今從本紀改正陳書卷二十八考證}
   back: []
-hash: sha256:709b3963bc6049087fdcb080899c5550c74d6020f09441ac3f2a944ffa0976d6
+hash: sha256:64f0e693cc21a8aa2e82946bed967aed52a3801f0946019e594e051366ff3bfb

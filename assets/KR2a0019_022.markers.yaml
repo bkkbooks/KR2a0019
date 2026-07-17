@@ -94,6 +94,7 @@ markers:
   - {type: 'tls:seg', offset: 147, content: '', id: KR2a0019_ZHSJ_022-d22p4s3}
   - {type: punctuation, offset: 156, content: (, id: KR2a0019_ZHSJ_022-bkkpn28}
   - {type: punctuation, offset: 156, content: （, id: KR2a0019_ZHSJ_022-bkkpn29}
+  - {type: voice, offset: 156, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 157, content: ）, id: KR2a0019_ZHSJ_022-bkkpn30}
   - {type: punctuation, offset: 157, content: ), id: KR2a0019_ZHSJ_022-bkkpn31}
   - {type: punctuation, offset: 157, content: 【, id: KR2a0019_ZHSJ_022-bkkpn32}
@@ -869,4 +870,4 @@ markers:
   - {type: page-break, offset: 1584, content: '', id: KR2a0019_WYG_022-7b, image: WYG0260/WYG0260-0687b.png}
   - {type: variant, offset: 1584, length: 0, content: '', krp: 陳書卷二十二陳書卷二十二考證錢道戢傳以功拜直閣將軍除員外散騎常侍假節東徐州刺史封永安縣侯邑五百户一本缺將軍至五百户共二十五字駱牙傳南史作駱文牙牙母陳覩世祖儀表知非常人陳各本俱誤陵今從南史陳書卷二十二考證}
   back: []
-hash: sha256:9f7f59efbc24af615e67d4db3868596fc1dd9889d236dd2b47e3769142a9d4d4
+hash: sha256:5dd03d14a7ebb6efa8ab10d381423ce848248ffc1710c1e2543854a23257c669
